@@ -1,0 +1,11 @@
+{
+    "$schema": "./task_schema.json", 
+    "id": 123,
+    "description": "A very nice description",
+    "important": true,
+    "private": false,
+    "project":  "WA1_Project", 
+    "deadline": "2021-11-20T00:00:00.000Z",
+    "completed": false,
+    "completers": 3
+}
